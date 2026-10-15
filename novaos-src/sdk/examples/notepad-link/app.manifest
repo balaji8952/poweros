@@ -1,0 +1,10 @@
+# A "builtin" app: no text, it just starts a built-in NovaOS app.
+# Saved as .appd to show that .appd and .powor are the same format.
+id=quick.notes
+name=Quick Notes
+version=1.0.0
+description=One click to Notepad
+type=builtin
+target=notepad
+accent=F5B400
+output=appd

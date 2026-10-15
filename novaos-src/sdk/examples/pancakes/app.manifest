@@ -1,0 +1,8 @@
+id=pancake.recipe
+name=Pancakes
+version=1.0.0
+author=Grandma
+description=Fluffy pancakes in 20 minutes
+type=textview
+accent=E5484D
+data=recipe.txt

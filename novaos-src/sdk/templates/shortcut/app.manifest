@@ -1,0 +1,10 @@
+# ===== NovaOS app project (type: builtin) - a shortcut to a built-in app =====
+# Build: python tools/mkpkg.py pack templates/shortcut -o my-shortcut.appd
+id=my.shortcut
+name=My Shortcut
+version=1.0.0
+type=builtin
+# target: files | notepad | photos | display | about
+target=notepad
+accent=F5B400
+# builtin apps have no data= line

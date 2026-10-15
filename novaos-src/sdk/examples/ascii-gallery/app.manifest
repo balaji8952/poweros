@@ -1,0 +1,9 @@
+id=ascii.gallery
+name=ASCII Gallery
+version=0.9.0
+author=NovaOS SDK
+description=A few pictures made of characters
+type=textview
+wrap=0
+accent=8B5CF6
+data=art.txt

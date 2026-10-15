@@ -1,0 +1,9 @@
+id=keys.reference
+name=Keyboard Shortcuts
+version=1.0.0
+author=NovaOS SDK
+description=Cheat sheet of NovaOS keys
+type=textview
+wrap=0
+accent=F59E0B
+data=keys.txt

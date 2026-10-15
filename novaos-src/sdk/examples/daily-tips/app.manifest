@@ -1,0 +1,10 @@
+id=daily.tips
+name=Daily Tips
+version=1.2.0
+author=NovaOS SDK
+description=Short tips for getting around NovaOS
+type=textview
+title=Daily Tips
+wrap=1
+accent=28A745
+data=tips.txt

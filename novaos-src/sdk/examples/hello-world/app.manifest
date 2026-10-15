@@ -1,9 +1,0 @@
-# Hello World - the smallest useful NovaOS app.
-id=hello.world
-name=Hello World
-version=1.0.0
-author=You
-description=My first NovaOS app
-type=textview
-accent=2F6FED
-data=content.txt

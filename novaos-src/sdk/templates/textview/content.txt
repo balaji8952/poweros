@@ -1,5 +1,0 @@
-Replace this text with your app's content.
-
-Plain ASCII only: letters, digits and normal punctuation.
-(If you paste curly quotes or long dashes, build with:
-   python tools/mkpkg.py pack templates/textview --fix-text)
